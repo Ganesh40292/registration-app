@@ -150,10 +150,14 @@ Hosted online using InfinityFree:
 
 ---
 
-# 🔄 Application Workflow
+# 📋 Registration App
 
-### 📂 Project Directory Structure
-```text
+A simple web-based registration system demonstrating front-end and back-end integration using HTML, CSS, JavaScript, and PHP.
+
+---
+
+## 📂 Project Structure
+
 registration-app/
 ├── index.html          # Main registration page (Entry Point)
 ├── submit.php          # PHP form processing logic
@@ -163,45 +167,53 @@ registration-app/
 └── js/
     └── script.js       # Client-side interactions & greeting logic
 
+
+---
+
 ## 🛠️ Component Overview
 
 | Component | File | Description |
-| :--- | :--- | :--- |
-| **Frontend** | `index.html` | The user interface containing the registration form. |
-| **Styling** | `style.css` | Manages the visual layout, responsiveness, and animations. |
-| **Logic** | `script.js` | Handles real-time validation and dynamic user greetings. |
-| **Backend** | `submit.php` | Processes form data, interacts with the server, and handles redirects. |
-| **Feedback** | `thankyou.html` | The landing page displayed after a successful submission. |
+|---------|---------|-------------|
+| Frontend | `index.html` | The user interface containing the registration form |
+| Styling | `style.css` | Manages layout, responsiveness, and animations |
+| Logic | `script.js` | Handles validation and dynamic greetings |
+| Backend | `submit.php` | Processes form data and handles redirects |
+| Feedback | `thankyou.html` | Confirmation page after successful submission |
+
 ---
 
-⚙️ How to Run Locally
-✔ Option A – Using XAMPP
-Install XAMPP from the official website.
+## ⚙️ How to Run Locally
 
-Place project folder inside the C:/xampp/htdocs/ directory.
+### ✔ Option A – Using XAMPP
 
-Start Apache Server from the XAMPP Control Panel.
+1. Install **XAMPP** from the official website  
+2. Place project folder inside:  
+3. Start **Apache Server** from XAMPP Control Panel  
+4. Open browser and visit:
 
-Open browser and visit: http://localhost/registration-app/
+http://localhost/registration-app/
 
-✔ Option B – Use Online Version
-Just open: 👉 Registration App Live
 
 ---
 
 ### ✔ Option B – Use Online Version
 
-Just open: 👉 **https://registrationwebsite.infinityfreeapp.com/**
+Just open the live hosted version:
+
+👉 **https://registrationwebsite.infinityfreeapp.com/**
 
 ---
 
-🚀 Deployment Steps
+## 🚀 Deployment Steps
+
 To host the project yourself:
-Create an account on InfinityFree.
-Create a subdomain.
-Open File Manager → Navigate to the htdocs folder.
-Upload all project files.
-Access your live link provided by the host.
+
+1. Create an account on **InfinityFree**
+2. Create a subdomain
+3. Open **File Manager → htdocs**
+4. Upload all project files
+5. Access your generated live link
+
 ---
 
 ## 📌 Advantages
@@ -209,7 +221,7 @@ Access your live link provided by the host.
 - Interactive user interface  
 - Fully online and accessible  
 - Smooth animations  
-- Clean layout  
+- Clean and responsive layout  
 - Real server-side processing  
 - Works on all modern browsers  
 
@@ -239,13 +251,13 @@ Possible improvements:
 
 ## 🏁 Conclusion
 
-This project successfully demonstrates the integration of:
+This project successfully demonstrates:
 
-- Front-end technologies  
+- Front-end development  
 - Back-end PHP processing  
 - Cloud deployment  
 
-It provides a strong beginner-level example of full-stack web development with a focus on user experience and real-world hosting.
+It serves as a beginner-friendly example of full-stack web development with real-world hosting.
 
 ---
 
@@ -255,15 +267,10 @@ It provides a strong beginner-level example of full-stack web development with a
 
 ![GitHub](https://img.shields.io/badge/GitHub-Ganesh40292-black?style=flat-square&logo=github)
 
-Enthusiastic about Web Development and Programming 🚀
+Passionate about Web Development and Programming 🚀
 
 ---
 
 ### ⭐ If you like this project, don’t forget to give it a star!
 
-
-
-
-
-## 📂 Project Directory Structure
 
