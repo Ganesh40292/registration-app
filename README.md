@@ -152,19 +152,26 @@ Hosted online using InfinityFree:
 
 ## 🔄 Application Workflow
 
-
+### 📂 Project Structure
+```text
 registration-app/
-│
-├── index.html → Main registration page
-├── submit.php → PHP form processing file
-├── thankyou.html → Success page
-│
+├── index.html          # Main registration page (Entry Point)
+├── submit.php          # PHP form processing logic
+├── thankyou.html       # Success confirmation page
 ├── css/
-│ └── style.css → Styles & animations
-│
+│   └── style.css       # Styles & UI animations
 └── js/
-└── script.js → Interactions & greeting logic
+    └── script.js       # Client-side interactions & greeting logic
 
+## 🛠️ Component Overview
+
+| Component | File | Description |
+| :--- | :--- | :--- |
+| **Frontend** | `index.html` | The user interface containing the registration form. |
+| **Styling** | `style.css` | Manages the visual layout, responsiveness, and animations. |
+| **Logic** | `script.js` | Handles real-time validation and dynamic user greetings. |
+| **Backend** | `submit.php` | Processes form data, interacts with the server, and handles redirects. |
+| **Feedback** | `thankyou.html` | The landing page displayed after a successful submission. |
 
 ---
 
@@ -182,9 +189,7 @@ registration-app/
 
 ### ✔ Option B – Use Online Version
 
-Just open:
-
-👉 **https://registrationwebsite.infinityfreeapp.com/**
+Just open: 👉 **https://registrationwebsite.infinityfreeapp.com/**
 
 ---
 
