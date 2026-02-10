@@ -158,6 +158,7 @@ A simple web-based registration system demonstrating front-end and back-end inte
 
 ## 📂 Project Structure
 
+```plaintext
 registration-app/
 ├── index.html          # Main registration page (Entry Point)
 ├── submit.php          # PHP form processing logic
@@ -166,7 +167,7 @@ registration-app/
 │   └── style.css       # Styles & UI animations
 └── js/
     └── script.js       # Client-side interactions & greeting logic
-
+```
 
 ---
 
