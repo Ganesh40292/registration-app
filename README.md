@@ -150,9 +150,9 @@ Hosted online using InfinityFree:
 
 ---
 
-## 🔄 Application Workflow
+# 🔄 Application Workflow
 
-### 📂 Project Structure
+### 📂 Project Directory Structure
 ```text
 registration-app/
 ├── index.html          # Main registration page (Entry Point)
@@ -172,18 +172,20 @@ registration-app/
 | **Logic** | `script.js` | Handles real-time validation and dynamic user greetings. |
 | **Backend** | `submit.php` | Processes form data, interacts with the server, and handles redirects. |
 | **Feedback** | `thankyou.html` | The landing page displayed after a successful submission. |
-
 ---
 
-## 🛠️ How to Run Locally
+⚙️ How to Run Locally
+✔ Option A – Using XAMPP
+Install XAMPP from the official website.
 
-### ✔ Option A – Using XAMPP
+Place project folder inside the C:/xampp/htdocs/ directory.
 
-1. Install XAMPP  
-2. Place project folder inside:
-3. Start Apache Server  
-4. Open browser and visit:
+Start Apache Server from the XAMPP Control Panel.
 
+Open browser and visit: http://localhost/registration-app/
+
+✔ Option B – Use Online Version
+Just open: 👉 Registration App Live
 
 ---
 
@@ -193,16 +195,13 @@ Just open: 👉 **https://registrationwebsite.infinityfreeapp.com/**
 
 ---
 
-## 🚀 Deployment Steps
-
+🚀 Deployment Steps
 To host the project yourself:
-
-1. Create an account on InfinityFree  
-2. Create a subdomain  
-3. Open File Manager → `htdocs`  
-4. Upload project files  
-5. Access your live link  
-
+Create an account on InfinityFree.
+Create a subdomain.
+Open File Manager → Navigate to the htdocs folder.
+Upload all project files.
+Access your live link provided by the host.
 ---
 
 ## 📌 Advantages
